@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam Armin Ghajari.<br>iam working on a startup project called Noura (healthy and liofestyle app in Iran) <br>iam intrested in Python , Django , C++ especially Arduino . <br>i have many projects using DRF , Django , React and Arduino using ESP and something etc. <br>i have some projects on ML and Dl i love ASR and LLM and i had some projects using YOLO cv
+Hi! I'm **Armin Ghajari**, a software developer passionate about **Python, Django, and backend engineering**. I'm currently working on **Noura**, a health and lifestyle startup in Iran. I have hands-on experience building projects with **Django REST Framework, React, C++, Arduino, and ESP32**. I'm also deeply interested in **AI, Machine Learning, and Deep Learning**, particularly **Computer Vision (YOLO), Automatic Speech Recognition (ASR), and Large Language Models (LLMs)**. I love exploring new technologies and turning ideas into real-world applications.
 
 
 ## 🌐 Socials:
